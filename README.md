@@ -17,3 +17,6 @@ Add tasks:  Enter a task in the input field and press "Add" to add it to the lis
 Edit tasks: Click the edit icon next to a task to edit its text.
 
 Remove tasks: Click the delete icon next to a task to remove it from the list.
+
+##Technologies Used
+React
