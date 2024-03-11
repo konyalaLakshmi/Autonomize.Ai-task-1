@@ -21,3 +21,6 @@ Remove tasks: Click the delete icon next to a task to remove it from the list.
 ## Technologies Used
 
 React
+## Live Link:
+
+https://autonomize-ai-task-1-v7ey.vercel.app/
