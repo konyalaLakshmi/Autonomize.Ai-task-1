@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.todo-app{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:50px;
+   
+}
+.li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border:1px solid black;
+    padding:3px;
+    list-style-type: none;
+    width:270px;
+    height:35px;
+    font-size: 16px;
+    margin-bottom:5px;
+}
+
+.input{
+font-size:15px;
+color:black;
+height:32px;
+width:230px;
+}
+
+.add-button{
+    color:white;
+    border:0;
+    background-color: blue;
+    border-radius:5px;
+    height:32px;
+    width:60px;
+    margin-top:5px;
+}
+.ul{
+    list-style-type: none;
+}
+.p{
+    font-size:15px;
+    color:black;
+    font-weight:500;
+}
+.del-i{
+    color:red;
+    height:20px;
+    width:25px;
+}
