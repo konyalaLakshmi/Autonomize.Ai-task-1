@@ -18,5 +18,6 @@ Edit tasks: Click the edit icon next to a task to edit its text.
 
 Remove tasks: Click the delete icon next to a task to remove it from the list.
 
-##Technologies Used
+## Technologies Used
+
 React
